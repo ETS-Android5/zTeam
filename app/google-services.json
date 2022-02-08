@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773527392416",
+    "project_id": "project2-16642",
+    "storage_bucket": "project2-16642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773527392416:android:dd10ae9c023712cb8539c5",
+        "android_client_info": {
+          "package_name": "com.example.zteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773527392416-22f9qpbmtep1do61q3a6et390bgl07li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvjQtao4_eOKuvUsj6CK7re6X60YhCGnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773527392416-22f9qpbmtep1do61q3a6et390bgl07li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
